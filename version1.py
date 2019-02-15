@@ -24,9 +24,3 @@ while (cap.isOpened()):
 cap.release()
 cv2.destroyAllWindows()
 
-'''
-作者：爱技术爱生活 
-来源：CSDN 
-原文：https://blog.csdn.net/tong5956/article/details/78392831 
-版权声明：本文为博主原创文章，转载请附上博文链接！
-'''
